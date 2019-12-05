@@ -1,8 +1,19 @@
 
-H5支付、个人支付宝、H5拉起个人码 扫码、转账
+个人支付宝 H5支付、H5拉起个人码支付
 =====
 
-1.个人支付宝H5拉起支付
+1.支付宝收款二维码生成源码
+--------
+
+####生成指定金额、不可修改金额、备注的收款二维码，用户扫码后直接到支付界面完成支付
+
+说明-源码目前只提供付费分享：[点击下载](http://store.mysky18.com/payserver/e/example/create?productCode=a29&payType=WX&total=29)
+
+
+
+
+
+2.个人支付宝H5拉起支付
 ------- 
 
 测试记录
@@ -24,11 +35,9 @@ OPPO 安卓6（支付宝版本10.1.55）<br>
 苹果XS MAX IOS（支付宝版本10.1.68）<br>
 
 ###直接浏览器拉起跳转支付界面，无须扫码，可实现不可修改金额与备注
-说明-源码目前只提供付费分享，直接付费下载：[点击付费下载](http://store.mysky18.com/payserver/e/example/create?productCode=b299&payType=WX&total=299)
+说明-源码目前只提供付费分享：[点击下载](http://store.mysky18.com/payserver/e/example/create?productCode=b299&payType=WX&total=299)
 
 
 
-2.
-------- 
 
 
