@@ -35,7 +35,7 @@ OPPO 安卓6（支付宝版本10.1.55）<br>
 苹果XS MAX IOS（支付宝版本10.1.68）<br>
 
 ###直接浏览器拉起跳转支付界面，无须扫码，可实现不可修改金额与备注
-说明-源码目前只提供付费分享：[点击下载](http://store.mysky18.com/payserver/e/example/create?productCode=b-299)
+说明-源码目前只提供付费分享：[点击下载](http://store.mysky18.com/payserver/e/example/srcStore?productCode=b-299)
 
 
 
