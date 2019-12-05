@@ -25,7 +25,7 @@ OPPO 安卓6（支付宝版本10.1.55）<br>
 苹果XS MAX IOS（支付宝版本10.1.68）<br>
 
 
-说明-源码目前只提供付费分享，直接付费下载：[点击付费下载](http://store.mysky18.com/payserver/e/example/create?orderCode=123&productCode=b&payType=WX&total=99)
+说明-源码目前只提供付费分享，直接付费下载：[点击付费下载](http://store.mysky18.com/payserver/e/example/create?productCode=b&payType=WX&total=99)
 
 
 
